@@ -9,3 +9,8 @@ Late update - On Saturday 27/08/22 I made a local database and created a simple 
 ### 01/09/22
 Today I will be reattempting to connect my Azure database to my API.
 > Succeeded in linking my Azure database with my API, also added a controller for zones.
+
+## References
+<ul>
+  <li><p><a href="https://www.guidgenerator.com/online-guid-generator.aspx">GUID generator</a></p></li> 
+</ul>

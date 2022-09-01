@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CMPG_323_Project_2_-_34729100"
+    "\\CMPG_323_Project_2_-_34729100",
+    "\\CMPG_323_Project_2_-_34729100\\Controllers"
   ],
-  "SelectedNode": "\\CMPG_323_Project_2_-_34729100\\Startup.cs",
+  "SelectedNode": "\\CMPG_323_Project_2_-_34729100\\Controllers\\ZonesController.cs",
   "PreviewInSolutionExplorer": false
 }
