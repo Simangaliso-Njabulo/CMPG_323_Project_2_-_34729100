@@ -7,8 +7,8 @@ Today I will be creating my Azure database and connecting it to my API.
 
 Late update - On Saturday 27/08/22 I made a local database and created a simple API to see how everything works. I also created a resource group on MS Azure and tried to create the database, but I ran into some problems. Unfortunately, I forgot to update my readme.
 ### 01/09/22
-Today I will be reattempting to connect my Azure database to my API.
-> Succeeded in linking my Azure database with my API, also added a controller for zones.
+Today I will be reattempting to connect my Azure database to my API. I will also be creating the basic methods.
+> Succeeded in linking my Azure database with my API, also added a basic methods.
 
 ## References
 <ul>
