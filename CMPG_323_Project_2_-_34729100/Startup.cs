@@ -29,8 +29,8 @@ namespace CMPG_323_Project_2___34729100
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddDbContext<ConnectedOfficeContext>(options => options.UseSqlServer("name=ConnectionStrings:DefaultConnection"));
-            services.AddSwaggerGen(options => { options.SwaggerDoc("v2", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "CMPG_323_Project_2_-_34729100", Version = "v2", Description = "CMPG_323_Project_2_-_34729100", }); });
+            services.AddDbContext<CMPG323_P2_34729100_sqldbContext>(options => options.UseSqlServer("name=ConnectionStrings:DefaultConnection"));
+            services.AddSwaggerGen(options => { options.SwaggerDoc("v2", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "CMPG323 Project 2 - 34729100", Version = "v2", Description = "In this project I am expected to create an API for managing IoT Devices. The API will be created using visual studio .NET core and will be tested using Swagger.", }); });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -52,7 +52,7 @@ namespace CMPG_323_Project_2___34729100
                 endpoints.MapControllers();
             });
             app.UseSwagger(); 
-            app.UseSwaggerUI(options => options.SwaggerEndpoint("/swagger/v2/swagger.json", "MyTest Demo"));
+            app.UseSwaggerUI(options => options.SwaggerEndpoint("/swagger/v2/swagger.json", "CMPG323 Project 2 - 34729100")); 
         }
     }
 }

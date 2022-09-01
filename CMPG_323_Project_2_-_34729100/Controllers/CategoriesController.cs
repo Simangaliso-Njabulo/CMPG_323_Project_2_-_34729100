@@ -7,15 +7,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using CMPG_323_Project_2___34729100.Models;
 
-namespace CMPG_323_Project_2___34729100.Controllers
+namespace CMPG_323_Project_2___34729100.Properties
 {
     [Route("api/[controller]")]
     [ApiController]
     public class CategoriesController : ControllerBase
     {
-        private readonly ConnectedOfficeContext _context;
+        private readonly CMPG323_P2_34729100_sqldbContext _context;
 
-        public CategoriesController(ConnectedOfficeContext context)
+        public CategoriesController(CMPG323_P2_34729100_sqldbContext context)
         {
             _context = context;
         }

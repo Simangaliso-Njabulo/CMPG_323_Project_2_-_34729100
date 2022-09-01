@@ -15,7 +15,7 @@
       "launchUrl": "swagger",
       "environmentVariables": { "ASPNETCORE_ENVIRONMENT": "Development" }
     },
-    "CMPG_323_Project_2_-_34729100": {
+    "CMPG_323_Project_2___34729100": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",
