@@ -16,4 +16,6 @@ On the 3rd and 4th of Sept I was completing my training hence no update was made
 <ul>
   <li><p><a href="https://www.guidgenerator.com/online-guid-generator.aspx">GUID generator</a></p></li> 
   <li><p><a href="https://brightsec.com/blog/api-security/">API Security: The Complete Guide to Threats, Methods & Tools</a></p></li> 
+   <li><p><a href="https://www.microfocus.com/en-us/what-is/api-security">What is API Security?</a></p></li> 
+  <li><p><a href=" https://youtu.be/ht9e01bTklE"> How to protect your APIs against these 6 security threats</a></p></li> 
 </ul>
