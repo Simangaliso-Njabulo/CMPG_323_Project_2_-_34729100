@@ -24,4 +24,6 @@ On the 3rd and 4th of Sept I was completing my training hence no update was made
   <li><p><a href="https://docs.microsoft.com/en-us/learn/modules/build-web-api-aspnet-core/">Create a web API with ASP.NET Core controllers</a></p></li>
   <li><p><a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.1">ASP.NET Core web API documentation with      Swagger / OpenAPI</a></p></li>
   <li><p><a href="https://docs.microsoft.com/en-us/learn/paths/create-microservices-with-dotnet/">Create microservices with .NET and ASP.NET Core</a></p></li>
+  <li><p><a href="https://jwt.io/introduction/">Introduction to JSON Web Tokens</a></p></li>
+  
 </ul>
