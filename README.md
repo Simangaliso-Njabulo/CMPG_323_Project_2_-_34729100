@@ -17,6 +17,7 @@ On the 3rd and 4th of Sept I was completing my training hence no update was made
  <li><p><a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio">Tutorial: Create a web API with ASP.NET       Core</a></p></li> 
   <li><p><a href="https://www.guidgenerator.com/online-guid-generator.aspx">GUID generator</a></p></li> 
   <li><p><a href="https://www.dropbox.com/sh/p8fiokfpiqv4gud/AAC5X8SdanTnduTWYzVq4kQ7a?dl=0&preview=05+CMPG+323+-+API+Security+intro+23+Aug.mp4">23 Aug Class Recording    || API Security</a></p></li> 
+  <li><p><a href="https://www.dropbox.com/sh/p8fiokfpiqv4gud/AAC5X8SdanTnduTWYzVq4kQ7a?dl=0&preview=05+CMPG+323+-+CLOUD+and+API+Security+25+August.mp4">25 Aug Class  Recording    || Cloud and API Security</a></p></li>
   <li><p><a href="https://brightsec.com/blog/api-security/">API Security: The Complete Guide to Threats, Methods & Tools</a></p></li> 
   <li><p><a href="https://www.microfocus.com/en-us/what-is/api-security">What is API Security?</a></p></li> 
   <li><p><a href="https://youtu.be/ht9e01bTklE"> How to protect your APIs against these 6 security threats</a></p></li>
