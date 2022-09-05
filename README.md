@@ -9,8 +9,11 @@ Late update - On Saturday 27/08/22 I made a local database and created a simple 
 ### 01/09/22
 Today I will be reattempting to connect my Azure database to my API. I will also be creating the basic methods.
 > Succeeded in linking my Azure database with my API, also added a basic methods.
+### 05/09/22
+On the 3rd and 4th of Sept I was completing my training hence no update was made to my read me. Today I'll be looking into Security within my API. 
 
 ## References
 <ul>
   <li><p><a href="https://www.guidgenerator.com/online-guid-generator.aspx">GUID generator</a></p></li> 
+  <li><p><a href="https://brightsec.com/blog/api-security/">API Security: The Complete Guide to Threats, Methods & Tools</a></p></li> 
 </ul>
