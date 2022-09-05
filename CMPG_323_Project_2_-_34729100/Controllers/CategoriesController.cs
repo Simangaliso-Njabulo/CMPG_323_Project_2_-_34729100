@@ -21,7 +21,7 @@ namespace CMPG_323_Project_2___34729100.Properties
         }
 
         // GET: api/Categories
-        [HttpGet("\tReturns a list of all categories")]
+        [HttpGet]
         public async Task<ActionResult<IEnumerable<Category>>> GetCategory()
         {
             return await _context.Category.ToListAsync();
