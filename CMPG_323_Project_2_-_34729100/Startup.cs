@@ -27,8 +27,10 @@ namespace JWTAuthentication
         // This method gets called by the runtime. Use this method to add services to the container.  
         public void ConfigureServices(IServiceCollection services)
         {
+            
             services.AddControllers();
-            services.AddDbContext<CMPG323_P2_34729100_sqldbContext>(options => options.UseSqlServer("Server=tcp:cmpg323-p2-34729100-sql.database.windows.net,1433;Initial Catalog=CMPG323_P2_34729100_sqldb;Persist Security Info=False;User ID=Smanga_M;Password=Simangaliso#2001;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"));
+            services.AddDbContext<CMPG323_P2_34729100_sqldbContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("ConnStr")));
 
             services.AddSwaggerGen(c => {
                 c.SwaggerDoc("v2", new OpenApiInfo
