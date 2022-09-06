@@ -12,7 +12,6 @@ Today I will be reattempting to connect my Azure database to my API. I will also
 ### 05/09/22
 On the 3rd and 4th of Sept I was completing my training hence no update was made to my read me. Today I'll be looking into Security within my API. 
 
-## References
 <ul>
  <li><p><a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio">Tutorial: Create a web API with ASP.NET       Core</a></p></li> 
   <li><p><a href="https://www.guidgenerator.com/online-guid-generator.aspx">GUID generator</a></p></li> 
