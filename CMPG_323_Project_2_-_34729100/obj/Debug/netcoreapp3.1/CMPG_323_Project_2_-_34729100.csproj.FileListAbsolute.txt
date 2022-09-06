@@ -272,3 +272,9 @@ C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_
 C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\obj\Debug\netcoreapp3.1\CMPG_323_Project_2_-_34729100.dll
 C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\obj\Debug\netcoreapp3.1\CMPG_323_Project_2_-_34729100.pdb
 C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\obj\Debug\netcoreapp3.1\CMPG_323_Project_2_-_34729100.genruntimeconfig.cache
+C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll

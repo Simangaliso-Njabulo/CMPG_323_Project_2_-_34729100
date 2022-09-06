@@ -25,5 +25,7 @@ On the 3rd and 4th of Sept I was completing my training hence no update was made
   <li><p><a href="https://docs.microsoft.com/en-us/learn/paths/create-microservices-with-dotnet/">Create microservices with .NET and ASP.NET Core</a></p></li>
   <li><p><a href="https://jwt.io/introduction/">Introduction to JSON Web Tokens</a></p></li>
   <li><p><a href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.entityframeworkcore?view=aspnetcore- 1.1">Microsoft.AspNetCore.Identity.EntityFrameworkCore Namespace</a></p></li>
-  <li><p><a href="https://youtu.be/YMBAeHaqrVs">Package Manager Console More than one DbContext was found in ASP NET CORE</a></p></li> 
+  <li><p><a href="https://youtu.be/YMBAeHaqrVs">Package Manager Console More than one DbContext was found in ASP NET CORE</a></p></li>
+  <li><p><a href="https://youtu.be/C2L7SUZY9fw">InvalidOperationException Unable resolve service Context attempt activate Controller ASP.NET Core</a></p></li> 
+  <li><p><a href="https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-6.0">Dependency injection in ASP.NET Core</a></p></li>
 </ul>

@@ -6,9 +6,13 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using CMPG_323_Project_2___34729100.Models;
+using JWTAuthentication.Authentication;
+using Microsoft.AspNetCore.Authorization;
+using System.Data;
 
 namespace CMPG_323_Project_2___34729100.Controllers
 {
+    [Authorize(Roles = UserRoles.Admin)]
     [Route("api/[controller]")]
     [ApiController]
     public class ZonesController : ControllerBase

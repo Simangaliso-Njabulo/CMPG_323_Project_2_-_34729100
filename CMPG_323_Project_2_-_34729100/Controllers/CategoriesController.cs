@@ -6,9 +6,13 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using CMPG_323_Project_2___34729100.Models;
+using JWTAuthentication.Authentication;
+using Microsoft.AspNetCore.Authorization;
+using System.Data;
 
 namespace CMPG_323_Project_2___34729100.Properties
 {
+    [Authorize(Roles = UserRoles.Admin)]
     [Route("api/[controller]")]
     [ApiController]
     public class CategoriesController : ControllerBase
@@ -21,7 +25,7 @@ namespace CMPG_323_Project_2___34729100.Properties
         }
 
         // GET: api/Categories
-        [HttpGet("\tReturns a list of all categories")]
+        [HttpGet]
         public async Task<ActionResult<IEnumerable<Category>>> GetCategory()
         {
             return await _context.Category.ToListAsync();

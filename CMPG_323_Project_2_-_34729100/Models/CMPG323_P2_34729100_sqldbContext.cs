@@ -27,7 +27,7 @@ namespace CMPG_323_Project_2___34729100.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
+//#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
                 optionsBuilder.UseSqlServer(" Server=tcp:cmpg323-p2-34729100-sql.database.windows.net,1433;Initial Catalog=CMPG323_P2_34729100_sqldb;Persist Security Info=False;User ID=Smanga_M;Password=Simangaliso#2001;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
             }
         }
