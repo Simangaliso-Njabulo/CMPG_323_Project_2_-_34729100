@@ -12,7 +12,7 @@ using System.Data;
 
 namespace CMPG_323_Project_2___34729100.Properties
 {
-    [Authorize(Roles = UserRoles.Admin)]
+   // [Authorize(Roles = UserRoles.Admin)]
     [Route("api/[controller]")]
     [ApiController]
     public class CategoriesController : ControllerBase
@@ -44,6 +44,34 @@ namespace CMPG_323_Project_2___34729100.Properties
 
             return category;
         }
+
+        // GET: api/Categories/5
+        [HttpGet("{id} to get all devices in that specified category")]
+        public async Task<ActionResult<Category>> GetDeviceCategory(Guid id)
+        {
+            var category = await _context.Category.FindAsync(id);
+
+            if (category == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(await _context.Device.Where(device => device.CategoryId == id).ToListAsync());
+           // return category;
+        }
+
+        /*     [HttpGet("{Id} to get Devices in the specified category")]
+             public async Task<ActionResult<Category>> GetDeviceCategory(Guid id)
+             {
+                 var category = await _context.Category.FindAsync(id);
+
+                 if (category == null)
+                 {
+                     return NotFound();
+                 }
+
+                 return Ok(await _context.Device.Where(device => device.CategoryId == id).ToListAsync());
+             }*/
 
         // PUT: api/Categories/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for

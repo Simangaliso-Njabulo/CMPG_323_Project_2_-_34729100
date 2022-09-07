@@ -12,7 +12,7 @@ using System.Data;
 
 namespace CMPG_323_Project_2___34729100.Controllers
 {
-    [Authorize(Roles = UserRoles.Admin)]
+   // [Authorize(Roles = UserRoles.Admin)]
     [Route("api/[controller]")]
     [ApiController]
     public class ZonesController : ControllerBase
@@ -44,6 +44,21 @@ namespace CMPG_323_Project_2___34729100.Controllers
 
             return zone;
         }
+
+        [HttpGet("{id} to get all devices in that specified zone")]
+        public async Task<ActionResult<Zone>> GetDeviceZone(Guid id)
+        {
+            var zone = await _context.Zone.FindAsync(id);
+
+            if (zone == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(await _context.Device.Where(device => device.ZoneId == id).ToListAsync());
+        }
+
+ 
 
         // PUT: api/Zones/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
