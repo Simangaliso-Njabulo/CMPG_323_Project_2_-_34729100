@@ -135,8 +135,6 @@ C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Desktop\CMPG_323_Project_2
 C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Desktop\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Desktop\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Desktop\CMPG_323_Project_2_-_34729100\obj\Debug\netcoreapp3.1\CMPG_323_Project_2_-_34729100.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\CMPG_323_Project_2_-_34729100.exe
 C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\CMPG_323_Project_2_-_34729100.deps.json
 C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\CMPG_323_Project_2_-_34729100.runtimeconfig.json
@@ -278,3 +276,5 @@ C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_
 C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Simangaliso\OneDrive - NORTH-WEST UNIVERSITY\Documents\GitHub\CMPG_323_Project_2_-_34729100\CMPG_323_Project_2_-_34729100\bin\Debug\netcoreapp3.1\appsettings.json
