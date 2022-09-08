@@ -1,5 +1,26 @@
 # CMPG_323_Project_2_-_34729100
+
 In this project I am expected to create an API for managing IoT Devices. The API will be created using visual studio .NET core and will be tested using Swagger.
+
+# How does the api work?
+
+
+
+## List of Users 
+
+* All users use this same password: Abc123!@
+
+### Admin users
+
+User Name: dave
+
+### General users
+
+User Name: sue
+
+## List of Categories
+
+## List of Devices
 
 ## List of Zones
 
@@ -36,18 +57,32 @@ Zone Name: Zone H<br/>
 Zone Description: Faculty of Theology<br/>
 
 ## Project progress 
+
 ### 30/08/22
+
 Today I will be creating my Azure database and connecting it to my API.
 > I created my Azure database but failed to connect it to my API. I will go do reseach and ask some questions and try again another day.
 
 Late update - On Saturday 27/08/22 I made a local database and created a simple API to see how everything works. I also created a resource group on MS Azure and tried to create the database, but I ran into some problems. Unfortunately, I forgot to update my readme.
+
 ### 01/09/22
+
 Today I will be reattempting to connect my Azure database to my API. I will also be creating the basic methods.
 > Succeeded in linking my Azure database with my API, also added a basic methods.
+
 ### 05/09/22
+
 On the 3rd and 4th of Sept I was completing my training hence no update was made to my read me. Today I'll be looking into Security within my API. 
+> Created methods for authentication but couldn’t get the into my database because it said I had 2 contexts. Will have a crack at it again tomorrow.
+
+### 06/09/22
+
+Today I will be attempting to fixing the errors  I encountered yesterday and completing my API security (Authentication) . 
+> API security is up and running so glad I found solutions to my errors.
+
 
 ## References
+
 <ul>
  <li><p><a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio">Tutorial: Create a web API with ASP.NET       Core</a></p></li> 
   <li><p><a href="https://www.guidgenerator.com/online-guid-generator.aspx">GUID generator</a></p></li> 
