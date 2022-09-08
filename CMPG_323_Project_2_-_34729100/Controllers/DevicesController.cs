@@ -12,7 +12,7 @@ using System.Data;
 
 namespace CMPG_323_Project_2___34729100.Controllers
 {
-   // [Authorize(Roles = UserRoles.Admin)]
+    [Authorize(Roles = UserRoles.Admin)]
     [Route("api/[controller]")]
     [ApiController]
     public class DevicesController : ControllerBase
