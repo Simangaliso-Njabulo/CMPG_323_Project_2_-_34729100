@@ -6,9 +6,32 @@ In this project I am expected to create an API for managing IoT Devices. The API
 
 Step 1: Go to this url - https://cmpg323project2-34729100-ase.azurewebsites.net/swagger/index.html<br/>
 
-Step 2: Login using one of the admin users (dave or fifi || password: Abc123!@) because all my endpoints need admin authetication.<br/>
+Step 2: Under Authenticate click "Post/api/Authenticate/login".<br/>
 
-Step 3: Test the Api using swagger's UI.
+Step 3: In the right conner of the "Post/api/Authenticate/login" window click on "try it out".<br/>
+
+Step 4: The black "Example Value" textbox will turn white. Replace the 1st text that reads "string" with a user name and the 2nd with a password. List of users provided below. 
+NOTE !!! Login using one of the admin users (user name: dave or fifi || password: Abc123!@) because all my endpoints need admin authetication.<br/>
+
+Step 5: Click the blue "Execute" button<br/>
+
+Step 6: Under "Responses" the "Sever response" will return a token.<br/>
+
+Step 7: Copy the token from after the open quotes till just before to close quotes. Example of what you copied must look something like this:<br/> 
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiZmlmaSIsImp0aSI6ImI2NmM5M2YzLTdhN2MtNGUyYi04ZTc5LTdkMjkxOWM1MWNhMSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6IkFkbWluIiwiZXhwIjoxNjYyNjU3NTAxLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjYxOTU1IiwiYXVkIjoiaHR0cDovL2xvY2FsaG9zdDo0MjAwIn0.Co8MyT3ESa46KrI-TE71dBuQ_SteaShNTHa3XAfVRU8<br/>
+
+Step 8: Scroll down to "Categories" and click "Get/api/Categories".<br/>
+
+Step 9: In the right conner of the "Get/api/Categories" window click on the gray lock icon.<br/>
+
+Step 10: The "Availible authorizations" window will pop up. Follow the given instructions and click "Authorize". Then click close.
+
+Step 8: In the right conner of the "Get/api/Categories" window click on "try it out". Then "Execute"<br/>
+
+If you scroll down to "server response" you should see a list of all categories.<br/>
+
+NOTE !!! You have been authenticated. The gray lock has turned black for all the other methods as well. You can simple test the rest of the api in a simular manner.<br/>
 
 ## List of Users 
 
