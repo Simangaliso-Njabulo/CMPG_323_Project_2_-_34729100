@@ -2,7 +2,13 @@
 
 In this project I am expected to create an API for managing IoT Devices. The API will be created using visual studio .NET core and will be tested using Swagger.
 
-# How does the api work?
+# How to test the API
+
+Step 1: Go to this url - https://cmpg323project2-34729100-ase.azurewebsites.net/swagger/index.html<br/>
+
+Step 2: Login using one of the admin users (dave or fifi || password: Abc123!@) because all my endpoints need admin authetication.<br/>
+
+Step 3: Test the Api using swagger's UI.
 
 ## List of Users 
 
