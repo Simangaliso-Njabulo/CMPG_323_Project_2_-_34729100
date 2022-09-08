@@ -4,8 +4,6 @@ In this project I am expected to create an API for managing IoT Devices. The API
 
 # How does the api work?
 
-
-
 ## List of Users 
 
 * All users use this same password: Abc123!@ for ease of testing.
