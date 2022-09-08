@@ -27,7 +27,7 @@ Step 9: In the right conner of the "Get/api/Categories" window click on the gray
 
 Step 10: The "Availible authorizations" window will pop up. Follow the given instructions and click "Authorize". Then click close.
 
-Step 8: In the right conner of the "Get/api/Categories" window click on "try it out". Then "Execute"<br/>
+Step 11: In the right conner of the "Get/api/Categories" window click on "try it out". Then "Execute"<br/>
 
 If you scroll down to "server response" you should see a list of all categories.<br/>
 
