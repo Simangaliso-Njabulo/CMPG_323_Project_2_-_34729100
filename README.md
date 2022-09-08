@@ -8,19 +8,99 @@ In this project I am expected to create an API for managing IoT Devices. The API
 
 ## List of Users 
 
-* All users use this same password: Abc123!@
+* All users use this same password: Abc123!@ for ease of testing.
 
 ### Admin users
 
-User Name: dave
+User Name: dave<br/>
+User assword: Abc123!@<br/>
+
+User Name: fifi<br/>
+User assword: Abc123!@<br/>
 
 ### General users
 
-User Name: sue
+User Name: sue<br/>
+User assword: Abc123!@<br/>
+
+User Name: steve<br/>
+User assword: Abc123!@<br/>
 
 ## List of Categories
 
+Category Id: 3fa85f64-5717-4562-b3fc-2c963f66afa6<br/>
+Category Name: Lights<br/>
+
+Category Id: 8f692fa8-7175-4562-b3fc-2c963f66afa6<br/>
+Category Name: Air Conditioners<br/>
+
+Category Id: 5f643fa8-7175-4562-b3fc-2c963f66afa6<br/>
+Category Name: Doors<br/>
+
+Category Id: 2f653fa8-7175-4562-b3fc-2c963f66afa6<br/>
+Category Name: Security Cameras<br/>
+
+Category Id: 3f693fa8-7175-4562-b3fc-2c963f66afa6<br/>
+Category Name: Gates<br/>
+
 ## List of Devices
+
+Device Id: f04238d2-bad6-4823-82da-c2f65287153c<br/>
+Device Name": Light A1<br/>
+
+Device Id: 1a76e340-40f8-4ed4-ab91-f64edf9fbd95<br/>
+Device Name": Light A2<br/>
+
+Device Id: 8ef02dde-730f-4e70-b446-c82b22cbcf65<br/>
+Device Name": Light A3<br/>
+
+Device Id: 67e4be1f-b268-4f4f-bd00-027788297f4e<br/>
+Device Name": Light B1<br/>
+
+Device Id: ecddc633-2503-4abf-8d8e-a5b8c5a63b05<br/>
+Device Name": Light B2<br/>
+
+Device Id: 12174b3e-d2bd-42ff-a7d4-009b5d58aafd<br/>
+Device Name": Light C<br/>
+
+Device Id: 96d733dc-428a-4f69-86ff-803018bc43f0<br/>
+Device Name": AirCon A<br/>
+  
+Device Id: b95dcaad-2483-4e48-a7a2-ecea0edf7926<br/>
+Device Name": AirCon B<br/>
+
+Device Id: 1e08d9d3-888d-45c9-9682-191ef6284572<br/>
+Device Name": AirCon C<br/>
+   
+Device Id: 6d801940-dc4b-47fd-baf1-8ea230bbf845<br/>
+Device Name": Door A<br/>
+
+Device Id: e580d077-d547-43c9-970a-ba347aaaede8<br/>
+Device Name": Door B<br/>
+
+Device Id: 6d229ddb-c935-472d-89aa-02620bdd9b8e<br/>
+Device Name": Door C<br/>
+
+Device Id: 9d0b9343-f799-4f63-89f2-c2a72c235834<br/>
+Device Name": Door C2<br/>
+
+Device Id: cd24b236-be81-4d68-bb7c-24288eedabe7<br/>
+Device Name": Camera A<br/>
+  
+Device Id: 40b85444-4200-457e-895d-4e7ebe4e1b94<br/>
+Device Name": Camera B<br/>  
+
+Device Id: 2c41f878-15e4-4f7f-8e50-aa9aea25069b<br/>
+Device Name": Camera C<br/>  
+
+Device Id: af93357f-2586-4f59-ba6e-42f5a873af3e<br/>
+Device Name": Gate A<br/> 
+ 
+Device Id: be3776a2-b9eb-43cb-80f3-07bb28cc9159<br/>
+Device Name": Gate B<br/> 
+
+Device Id: 0621cad0-e985-427d-8a44-2362ab241a72<br/>
+Device Name": Gate C<br/> 
 
 ## List of Zones
 
@@ -79,7 +159,6 @@ On the 3rd and 4th of Sept I was completing my training hence no update was made
 
 Today I will be attempting to fixing the errors  I encountered yesterday and completing my API security (Authentication) . 
 > API security is up and running so glad I found solutions to my errors.
-
 
 ## References
 
