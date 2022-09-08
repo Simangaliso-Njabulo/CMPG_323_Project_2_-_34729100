@@ -131,6 +131,8 @@ Device Name": Gate C<br/>
 
 ## List of Zones
 
+* Note!! Zones D-H are currently under construction and therefore have on devices in them yet.
+
 Zone Id: emsp 4d37cb12-4359-430a-a5c6-09f1198781b6<br/> 
 Zone Name: Zone A<br/>
 Zone Description: Faculty of Economic and Management Sciences<br/>
