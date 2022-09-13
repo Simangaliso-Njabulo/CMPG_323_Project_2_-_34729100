@@ -165,6 +165,10 @@ Zone Id: 4f29dcac-affd-457e-843f-e0497a1f76c5<br/>
 Zone Name: Zone H<br/>
 Zone Description: Faculty of Theology<br/>
 
+## API endpoints on Azure API management
+![Context_Diagram](/Screenshot%20(300).png)<br/>
+
+![Context_Diagram](/Screenshot%20(301).png)<br/>
 ## Project progress 
 
 ### 30/08/22
